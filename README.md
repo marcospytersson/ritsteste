@@ -8,13 +8,6 @@
     <link rel="dns-prefetch" href="//s.w.org">
     <link rel="alternate" type="application/rss+xml" title="Feed para Rits Teste WP »" href="http://localhost/ritstestewp/feed">
     <link rel="alternate" type="application/rss+xml" title="Feed de comentários para Rits Teste WP »" href="http://localhost/ritstestewp/comments/feed">
-<wp:uagb/section {"classMigrate":true,"block_id":"0e6929e0","bottomPadding":600,"contentWidth":"full_width","innerWidth":1920,"backgroundType":"image","backgroundImage":{"uploading":false,"date":1605421565000,"filename":"visiomed-banner-contact-1920x600-1.jpg","menuOrder":0,"uploadedTo":9,"type":"image","subtype":"jpeg","id":32,"title":"visiomed-banner-contact-1920x600","url":"http://localhost/ritstestewp/wp-content/uploads/2020/11/visiomed-banner-contact-1920x600-1.jpg","link":"http://localhost/ritstestewp/?attachment_id=32","alt":"img backgound","author":"1","description":"","caption":"","name":"visiomed-banner-contact-1920x600","status":"inherit","modified":1605421565000,"mime":"image/jpeg","icon":"http://localhost/ritstestewp/wp-includes/images/media/default.png","dateFormatted":"15 de novembro de 2020","nonces":{"update":"ddea8d4d66","delete":"5356954497","edit":"b1206146e5"},"editLink":"http://localhost/ritstestewp/wp-admin/post.php?post=32\u0026action=edit","meta":false,"authorName":"adminWP","uploadedToLink":"http://localhost/ritstestewp/wp-admin/post.php?post=9\u0026action=edit","uploadedToTitle":"Menu 1","filesizeInBytes":435736,"filesizeHumanReadable":"426 KB","context":"","height":600,"width":1920,"orientation":"landscape","sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost/ritstestewp/wp-content/uploads/2020/11/visiomed-banner-contact-1920x600-1-150x150.jpg","orientation":"landscape"},"medium":{"height":94,"width":300,"url":"http://localhost/ritstestewp/wp-content/uploads/2020/11/visiomed-banner-contact-1920x600-1-300x94.jpg","orientation":"landscape"},"large":{"height":320,"width":1024,"url":"http://localhost/ritstestewp/wp-content/uploads/2020/11/visiomed-banner-contact-1920x600-1-1024x320.jpg","orientation":"landscape"},"full":{"url":"http://localhost/ritstestewp/wp-content/uploads/2020/11/visiomed-banner-contact-1920x600-1.jpg","height":600,"width":1920,"orientation":"landscape"}},"compat":{"item":"","meta":""}}} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-image uagb-block-0e6929e0">
-<div class="uagb-section__overlay"> </div>
-<div class="uagb-section__inner-wrap"> </div>
-</section>
-</wp:uagb/section>
-
     <script>
       (MT truncated)
     </script>
