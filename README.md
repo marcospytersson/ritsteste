@@ -450,6 +450,5 @@
         <div class="tvr-overlay tvr-padding-overlay"></div>
         <div class="tvr-overlay tvr-content-overlay" style="left:0px;top:0px;right:0px;bottom:0px;"></div>
       </div>
-    </div>
   </body>
 </html>
