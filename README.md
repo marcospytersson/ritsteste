@@ -3,90 +3,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Rits Teste WP – Só mais um site WordPress</title>
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//s.w.org">
     <link rel="alternate" type="application/rss+xml" title="Feed para Rits Teste WP »" href="http://localhost/ritstestewp/feed">
     <link rel="alternate" type="application/rss+xml" title="Feed de comentários para Rits Teste WP »" href="http://localhost/ritstestewp/comments/feed">
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
-    <style>
-      (MT truncated)
-    </style>
-    <link rel="stylesheet" id="dashicons-css" href="http://localhost/ritstestewp/wp-includes/css/dashicons.min.css?ver=5.5.3" media="all">
     <link rel="stylesheet" id="admin-bar-css" href="http://localhost/ritstestewp/wp-includes/css/admin-bar.min.css?ver=5.5.3" media="all">
     <link rel="stylesheet" id="astra-theme-css-css" href="http://localhost/ritstestewp/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.6.0" media="all">
-    <style>
-      (MT truncated)
-    </style>
-    <link rel="stylesheet" id="astra-google-fonts-css" href="//fonts.googleapis.com/css?family=Mulish%3A400%2C&amp;display=fallback&amp;ver=2.6.0" media="all">
     <link rel="stylesheet" id="astra-menu-animation-css" href="http://localhost/ritstestewp/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.6.0" media="all">
     <link rel="stylesheet" id="wp-block-library-css" href="http://localhost/ritstestewp/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3" media="all">
     <link rel="stylesheet" id="uagb-block-css-css" href="http://localhost/ritstestewp/wp-content/plugins/ultimate-addons-for-gutenberg/dist/blocks.style.css?ver=1.18.1" media="all">
     <link rel="stylesheet" id="astra-child-theme-css-css" href="http://localhost/ritstestewp/wp-content/themes/astra-child/style.css?ver=1.0.0" media="all">
     <link rel="stylesheet" type="text/css" href="http://localhost/ritstestewp/wp-content/plugins/microthemer/css/animate.min.css?v=2">
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <link rel="stylesheet" id="microthemer-overlay-css-css" href="http://localhost/ritstestewp/wp-content/plugins/microthemer/css/frontend.min.css?v=6.3.3.7&amp;ver=5.5.3" media="all">
     <!--[if IE]>
 <script>(MT truncated)</script>
 <script>(MT truncated)</script>
 <![endif]-->
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
-    <link rel="https://api.w.org/" href="http://localhost/ritstestewp/wp-json/">
-    <link rel="alternate" type="application/json" href="http://localhost/ritstestewp/wp-json/wp/v2/pages/9">
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/ritstestewp/xmlrpc.php?rsd">
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/ritstestewp/wp-includes/wlwmanifest.xml">
     <meta name="generator" content="WordPress 5.5.3">
@@ -94,21 +25,6 @@
     <link rel="shortlink" href="http://localhost/ritstestewp/">
     <link rel="alternate" type="application/json+oembed" href="http://localhost/ritstestewp/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fritstestewp%2F">
     <link rel="alternate" type="text/xml+oembed" href="http://localhost/ritstestewp/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fritstestewp%2F&amp;format=xml">
-    <script>
-      (MT truncated)
-    </script>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
-    <style>
-      (MT truncated)
-    </style>
     <link rel="icon" href="http://localhost/ritstestewp/wp-content/uploads/2020/11/logo2-rits.png" sizes="32x32">
     <link rel="icon" href="http://localhost/ritstestewp/wp-content/uploads/2020/11/logo2-rits.png" sizes="192x192">
     <link rel="apple-touch-icon" href="http://localhost/ritstestewp/wp-content/uploads/2020/11/logo2-rits.png">
@@ -116,9 +32,6 @@
     <link href="//fonts.googleapis.com/css?family=Muli:400&amp;subset=latin" rel="stylesheet">
   </head>
   <body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="home page-template-default page page-id-9 logged-in admin-bar wp-custom-logo mt-9 mt-page-menu-1 ast-desktop ast-page-builder-template ast-no-sidebar astra-2.6.0 ast-header-custom-item-inside ast-full-width-primary-header ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header customize-support ast-mouse-clicked" style="zoom: 1;">
-    <script>
-      (MT truncated)
-    </script>
       <header>
                 <div class="ast-main-header-bar-alignment">
                   <div class="main-header-bar-navigation">
@@ -498,24 +411,6 @@
       <!-- #colophon -->
     </div>
     <!-- #page -->
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
-    <script>
-      (MT truncated)
-    </script>
     <div id="mt-stuff-ignore">
       <div id="mt-grid-highlight">
         <div class="mt-oncanvas-grid">
